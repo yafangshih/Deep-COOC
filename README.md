@@ -19,8 +19,9 @@ Ya-Fang Shih\*, Yang-Ming Yeh\*, Yen-Yu Lin, Ming-Feng Weng, Yi-Chang Lu, Yung-Y
 
 ### Installation  
 1) clone the Deep-COOC repository
-2) follow the [intructions]( http://www.vlfeat.org/matconvnet/install/) to install matconvnet
+2) follow the [intructions](http://www.vlfeat.org/matconvnet/install/) to install matconvnet
 3) download [vlfeat toolbox](http://www.vlfeat.org/download.html), and put the files into `vlfeat/` 
-4) download [ImageNet-pretrained CNN models](http://www.vlfeat.org/matconvnet/pretrained/) (in our experiments, we used the **imagenet-resnet-152-dag model**), and put them into `data/models/`
-5) run `src/main.m`
+4) download [CUB-200-2011 dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html), and put the files into `data/cub/`
+5) download [ImageNet-pretrained CNN models](http://www.vlfeat.org/matconvnet/pretrained/) (in our experiments, we used the **imagenet-resnet-152-dag model**), and put them into `data/models/`
+6) run `src/main.m`
 
