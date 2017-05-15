@@ -1,6 +1,6 @@
 ## Deep Co-occurrence Feature Learning for Visual Object Recognition ##
 
-Ya-Fang Shih\*, Yang-Ming Yeh\*, Yen-Yu Lin, Ming-Feng Weng, Yi-Chang Lu, Yung-Yu Chuang 
+[Ya-Fang Shih](https://yafangshih.github.io)\*, Yang-Ming Yeh\*, [Yen-Yu Lin](https://www.citi.sinica.edu.tw/pages/yylin/), Ming-Fang Weng, Yi-Chang Lu, [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/) 
 <br />
 (CVPR 2017)
 
